@@ -1,0 +1,16 @@
+PODS:
+  - IOSFirstPod (0.1.0)
+
+DEPENDENCIES:
+  - IOSFirstPod (from `../`)
+
+EXTERNAL SOURCES:
+  IOSFirstPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  IOSFirstPod: a1b0b2b7a27e6e4787ea1798fd99a7ce7fbe2957
+
+PODFILE CHECKSUM: 1d2a605630bb4fb33a5b4737ea65d43620d84e38
+
+COCOAPODS: 1.7.0

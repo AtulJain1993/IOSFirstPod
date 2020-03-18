@@ -1,0 +1,6 @@
+framework module IOSFirstPod {
+  umbrella header "IOSFirstPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

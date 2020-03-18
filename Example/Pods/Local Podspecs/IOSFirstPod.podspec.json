@@ -1,0 +1,22 @@
+{
+  "name": "IOSFirstPod",
+  "version": "0.1.0",
+  "summary": "A short description of IOSFirstPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AtulJain1993/IOSFirstPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AtulJain1993": "atul@apporio.com"
+  },
+  "source": {
+    "git": "https://github.com/AtulJain1993/IOSFirstPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IOSFirstPod/Classes/**/*"
+}
